@@ -6,7 +6,11 @@ Let me guess, you had a hard time trying to pronounce my firstو didn’t you? I
 
 As a CS student, I have learned the theory of a wide range of topics such as computer organization, compilers, artificial intelligence, and formal languages, built over 37 coding projects, learned and coded in 12 different programming languages, participated in 2 hackathons, and interned as a software engineer at one of the leading tech companies in the Greater Boston Area, perhaps giving me a decent theoretical & practical foundation in CS. But the most important lesson that I have learned as a CS student is that the more I know, the more I know that I don't know. My knowledge in CS is like a kayak in a giant ocean. I'm eager to keep learning, forever. 
 
-
+### Contact Info & Online Presence
+- **Email**: szainula@u.rochester.edu or salihzain35@gmail.com
+- **LinkedIn**: [https://linkedin/in/salihzain](https://linkedin/in/salihzain)
+- **Website**: [https://salihzain.com](https://salihzain.com)
+- **StackOverflow**: [https://stackoverflow.com/users/14390072](https://stackoverflow.com/users/14390072)
 
 ### I'm passionate about:
 
@@ -14,7 +18,6 @@ As a CS student, I have learned the theory of a wide range of topics such as com
 2. Designing beautiful UIs.
 3. Writing documentation.
 4. Playing around with data.
-
 
 
 ### My goal is to specialize in:
