@@ -45,7 +45,7 @@ As a CS student, I have learned a little bit about the theory of a wide range of
 
 - **Data Management & Development**: Python, SQL, PostgreSQL
 - **Software Engineering Essentials**: Git, GitHub, LucidChart
-- **Superpowers**: Determination to Fix Bugs, Technical Documentation,  Infinite Patience for Writing Tests, Internal Motivation 
+- **Superpowers**: Internal Motivation, Attention to Details (AKA OCD), Writing Technical Documentation
 
 
 
