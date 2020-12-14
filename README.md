@@ -1,6 +1,6 @@
 ![Salih Zain](./img/cover.jpg)
 
-Let me guess, you had a hard time trying to pronounce my firstو didn’t you? It’s all good, you can call me Sal or Zain, whichever works for you best. But besides my 3 different names, let me tell you a little bit about who I am.
+Let me guess, you had a hard time trying to pronounce my first name, didn’t you? It’s all good, you can call me Sal or Zain, whichever works for you best. But besides my 3 different names, let me tell you a little bit about who I am.
 
  I have a background in design, business, and programming. Back when I was 17, I started my career as a UI & UX designer. I quickly realized that I had a passion for starting startups. So I co-founded Sha6bu5, the first recipe app in Iraq, and of course designed its UI & UX. Then I moved to the U.S. to participate in a social entrepreneurship semester-long program. After that, I started college majoring in Business Administration. I quickly realized that this field wasn't right for me. So, mid-sophomore year, I made the switch to CS after learning JavaScript on my own and feeling nostalgic about building products. Although I had to finish a 4-year B.Sc. program in 2.5 years, it was the best decision that I have ever made. 
 
