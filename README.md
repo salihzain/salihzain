@@ -12,6 +12,7 @@ As a CS student, I have learned a little bit about the theory of a wide range of
 - **Website**: [https://salihzain.com](https://salihzain.com)
 - **StackOverflow**: [https://stackoverflow.com/users/14390072](https://stackoverflow.com/users/14390072)
 
+
 ### I'm passionate about:
 
 1. Building elegant systems.
@@ -35,8 +36,6 @@ As a CS student, I have learned a little bit about the theory of a wide range of
 - **Essentials**: Git, GitHub, WorkFlowy
 
 
-
-
 ### Skills
 
 - **Backend & System Development:** Go, C/C++
@@ -47,6 +46,11 @@ As a CS student, I have learned a little bit about the theory of a wide range of
 - **Software Engineering Essentials**: Git, GitHub, LucidChart
 - **Superpowers**: Internal Motivation, Attention to Details (AKA OCD), Writing Technical Documentation
 
+### Superpowers
+
+| ![internal_motivation](./img/internal_motivation.png) | ![attention-to-details](./img/attention_to_details.png) | ![writing-technical-documentation](./img/writing_technical_documentation.png) |
+| :---------------------------------------------------: | :-----------------------------------------------------: | :----------------------------------------------------------: |
+|                  Internal Motivation                  |             Attention to Details (AKA OCD)              |               Writing Technical Documentation                |
 
 
 ### Research
