@@ -47,9 +47,9 @@ As a CS student, I have learned a little bit about the theory of a wide range of
 
 ### Superpowers
 
-| ![internal_motivation](./img/internal_motivation.png) | ![attention-to-details](./img/attention_to_details.png) | ![writing-technical-documentation](./img/writing_technical_documentation.png) |
-| :---------------------------------------------------: | :-----------------------------------------------------: | :----------------------------------------------------------: |
-|                  Internal Motivation                  |             Attention to Details (AKA OCD)              |               Writing Technical Documentation                |
+| ![self-motivated](./img/self-motivated.svg) | ![detail-oriented](./img/detail-oriented.svg) | ![patient](./img/patient.svg) |
+| :-----------------------------------------: | :-------------------------------------------: | :---------------------------: |
+|               Self-Motivated                |           Detail-Oriented (AKA OCD)           |            Patient            |
 
 
 ### Research
