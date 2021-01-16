@@ -21,7 +21,7 @@ As a CS student, I have learned a little bit about the theory of a wide range of
 
 ### My goal is to specialize in:
 
-1. Static Analysis & Code Optimization (Advanced Compliers).
+1. Static Analysis & Code Optimization (Advanced Compilers).
 2. Distributed Systems.
 
 
