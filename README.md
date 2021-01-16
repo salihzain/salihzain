@@ -10,7 +10,7 @@ Let me guess, you had a hard time trying to pronounce my first name, didn’t yo
 
 ### My goal is to specialize in:
 
-1. Static Analysis & Code Optimization (Advanced Compliers).
+1. Static Analysis & Code Optimization (Advanced Compilers).
 2. Distributed Systems.
 
 
