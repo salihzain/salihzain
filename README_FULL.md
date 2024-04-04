@@ -14,9 +14,10 @@ As a CS student, I have learned a little bit about the theory of a wide range of
 ### I'm passionate about:
 
 1. Building elegant systems.
-2. Designing beautiful UIs.
-3. Writing documentation.
-4. Playing around with data.
+2. Building compilers and static analyzers.
+3. Designing beautiful UIs.
+4. Writing documentation.
+5. Playing around with data.
 
 
 ### My goal is to specialize in:
@@ -28,17 +29,17 @@ As a CS student, I have learned a little bit about the theory of a wide range of
 
 ### My current frequently used languages & tools:
 
-- **Frontend**: HTML5, CSS3, TypeScript, Vue.js 
-- **Backend**: Golang, C++
+- **Frontend**: TypeScript, Vue.js, Vite, Node.js
+- **Backend**: Golang, C++, Java, Python
 - **Database**: PostgreSQL
 - **Essentials**: Git, GitHub, WorkFlowy
 
 
 ### Skills
 
-- **Backend & System Development:** Go, C/C++
+- **Backend & System Development:** Go, Java, C/C++
 
-- **Frontend Design & Development**: HTML, CSS, JavaScript, TypeScript, Vue.js, Adobe XD
+- **Frontend Design & Development**: HTML, CSS, JavaScript, TypeScript, Vue.js, Adobe XD, Figma
 
 - **Data Management & Development**: Python, SQL, PostgreSQL
 - **Software Engineering Essentials**: Git, GitHub, LucidChart
@@ -90,6 +91,7 @@ If you're an employer, chances are you're here to view my coding samples. So I p
 | Spring 2020  | Took the following courses:<br />- Software Analysis & Improvement (Advanced Compilers): built tools that do analysis & improvement on C code using Python. For example, I wrote code that turns C code into 3 address code then to a control flow graph and runs an iterative analysis algorithm on the code.<br />- Database Management Systems: learned the low-level foundations of database systems. For example, the different methods of indexing and how data is laid out as pages in the memory. We used C++ for to implement parts of the database systems such as writing records in `.csv` to as pages in the memory.<br />- Design & Analysis of Efficient Algorithms: used CLRS Introduction to Algorithms as a guide to learn about dynamic programming, greedy algorithms, graph algorithms, and other misc. topics.<br />- Computer Models & Limitations (Computer Theory): learned about the foundation of formal languages such as regular & context-free languages and Turing machines. Of course, the course wouldn't be complete without asking the question, is P == NP? |
 | Summer 2020  | I learned flutter, TypeScript, Vue.js, Electron and other cool stuff on my own. |
 | Fall 2020    | I lost my return offer due to COVID-19 after the company had to do its first-ever layoffs and putting hiring on hold  to reduce cash burden. So, I have been building cool stuff for my brother's company and I'm on the job market for SWE positions :) |
+| June 2021    | I joined Splunk as a software engineer, the first junior engineer to be hired on the SPL 2 team to work on compilers and static analyzers. |
 
 
 
