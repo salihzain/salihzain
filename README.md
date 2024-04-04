@@ -1,11 +1,12 @@
-Let me guess, you had a hard time trying to pronounce my first name, didn’t you? It’s all good, you can call me Sal or Zain, whichever works for you best. But besides my 3 different names, let me tell you a little bit about who I am.
+Let me guess, you had a hard time trying to pronounce my first name, didn’t you? It’s all good, you can call me Sal or Zain, whichever works best for you. But besides my 3 different names, let me tell you a little bit about who I am.
 
 ### I'm passionate about:
 
 1. Building elegant systems.
-2. Designing beautiful UIs.
-3. Writing documentation.
-4. Playing around with data.
+2. Building compilers and static analyzers. 
+3. Designing beautiful UIs.
+4. Writing documentation.
+5. Playing around with data.
 
 
 ### My goal is to specialize in:
@@ -16,8 +17,8 @@ Let me guess, you had a hard time trying to pronounce my first name, didn’t yo
 
 ### My current frequently used languages & tools:
 
-- **Frontend**: HTML5, CSS3, TypeScript, Vue.js 
-- **Backend**: Golang, C++
+- **Frontend**: TypeScript, Vue.js, Vite, Node.js
+- **Backend**: Golang, C++, Java, Python 
 - **Database**: PostgreSQL
 - **Essentials**: Git, GitHub, WorkFlowy
 
